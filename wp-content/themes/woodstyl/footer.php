@@ -6,7 +6,7 @@
 						<div class="foot__tbl tbl">
 							<div class="tbl-cell cell-1 mdl">
 								<a href="#">
-									<img src="img/logo.png">
+									<img src="<?bloginfo('template_directory');?>/dist/img/logo.png">
 								</a>
 							</div>
 							<div class="tbl-cell cell-2 mdl">

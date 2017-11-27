@@ -1,4 +1,4 @@
-<div class="pay-3" style="background: url('../img/pay3.jpg') center no-repeat; -webkit-background-size: cover; background-size: cover;">
+<div class="pay-3" style="background: url('<?php bloginfo("template_directory");?>/dist/img/pay3.jpg') center no-repeat; -webkit-background-size: cover; background-size: cover;">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6">
@@ -16,7 +16,7 @@
 			</div>
 			<div class="col-md-6">
 				<div class="blck">
-					<img src="img/pay4.jpg">								
+					<img src="<?bloginfo('template_directory');?>/dist/img/pay4.jpg">								
 				</div>
 
 			</div>

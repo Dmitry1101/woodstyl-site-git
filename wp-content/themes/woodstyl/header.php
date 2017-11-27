@@ -17,7 +17,7 @@
 					<div class="col-lg-2">
 						<div class="top__blck blck-1">
 							<a href="/">
-								<img src="img/logo.png">
+								<img src="<?bloginfo('template_directory');?>/dist/img/logo.png">
 							</a>
 						</div>
 					</div>

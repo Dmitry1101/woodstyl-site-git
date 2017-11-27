@@ -22,12 +22,12 @@
 						<div class="m-slider__dots"></div>
 						<div class="m-slider">
 							
-							<div class="m-slider__it-wrap" style="background:  url('../img/m-slider-1.jpg') center no-repeat; -webkit-background-size: cover; background-size: cover;">
+							<div class="m-slider__it-wrap" style="background:  url('<?bloginfo('template_directory');?>/dist/img/m-slider-1.jpg') center no-repeat; -webkit-background-size: cover; background-size: cover;">
 								<div class="over"></div>
 								<div class="m-slider__it">
 									<div class="blckk blck-1">
 
-										<img class="m-slider__img" src="img/m-slider-2.png">														
+										<img class="m-slider__img" src="<?bloginfo('template_directory');?>/dist/img/m-slider-2.png">														
 									
 									</div>
 									<div class="blckk blck-2">
@@ -56,12 +56,12 @@
 							</div><!-- .m-slider__it-wrap -->
 
 
-							<div class="m-slider__it-wrap" style="background:  url('../img/m-slider-1.jpg') center no-repeat; -webkit-background-size: cover; background-size: cover;">
+							<div class="m-slider__it-wrap" style="background:  url('<?bloginfo('template_directory');?>/dist/img/m-slider-1.jpg') center no-repeat; -webkit-background-size: cover; background-size: cover;">
 								<div class="over"></div>
 								<div class="m-slider__it">
 									<div class="blckk blck-1">
 
-										<img class="m-slider__img" src="img/m-slider-2.png">														
+										<img class="m-slider__img" src="<?bloginfo('template_directory');?>/dist/img/m-slider-2.png">														
 									
 									</div>
 									<div class="blckk blck-2">
@@ -89,12 +89,12 @@
 								</div>	
 							</div><!-- .m-slider__it-wrap -->
 
-							<div class="m-slider__it-wrap" style="background:  url('../img/m-slider-1.jpg') center no-repeat; -webkit-background-size: cover; background-size: cover;">
+							<div class="m-slider__it-wrap" style="background:  url('<?bloginfo('template_directory');?>/dist/img/m-slider-1.jpg') center no-repeat; -webkit-background-size: cover; background-size: cover;">
 								<div class="over"></div>
 								<div class="m-slider__it">
 									<div class="blckk blck-1">
 
-										<img class="m-slider__img" src="img/m-slider-2.png">														
+										<img class="m-slider__img" src="<?bloginfo('template_directory');?>/dist/img/m-slider-2.png">														
 									
 									</div>
 									<div class="blckk blck-2">
@@ -134,7 +134,7 @@
 		<div class="row">
 			<div class="col-md-12">
 				<div class="showw">
-					<div class="showw__blck blck-1" style="background: url('img/showw-1.jpg') center no-repeat; -webkit-background-size: cover; background-size: cover;">
+					<div class="showw__blck blck-1" style="background: url('<?php bloginfo("template_directory");?>/dist/img/showw-1.jpg') center no-repeat; -webkit-background-size: cover; background-size: cover;">
 						
 						<div class="showw__podloj with-border">
 						<a class="more with-ic-hover"><i class="icon icon-nexxt"></i><i class="icon icon-nexxt-h"></i></a>
@@ -149,7 +149,7 @@
 						</div>
 					</div>
 					<div class="showw__blck blck-2">
-						<div class="showw__sub showw__sub-1" style="background: url('img/showw-2.jpg') center no-repeat; -webkit-background-size: cover; background-size: cover;">
+						<div class="showw__sub showw__sub-1" style="background: url('<?php bloginfo("template_directory");?>/dist/img/showw-2.jpg') center no-repeat; -webkit-background-size: cover; background-size: cover;">
 							<div class="showw__podloj">
 								<div class="showw__head">
 									кухни современный стиль
@@ -161,7 +161,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="showw__sub showw__sub-2" style="background: url('img/showw-3.jpg') center no-repeat; -webkit-background-size: cover; background-size: cover;">
+						<div class="showw__sub showw__sub-2" style="background: url('<?php bloginfo("template_directory");?>/dist/img/showw-3.jpg') center no-repeat; -webkit-background-size: cover; background-size: cover;">
 							<div class="showw__podloj">
 								<div class="showw__head">
 									шкафы
@@ -194,7 +194,7 @@
 				<div class="col-md-3">
 					<div class="feat__it">
 						<div class="feat__img">
-							<img src="img/feat1.png">
+							<img src="<?bloginfo('template_directory');?>/dist/img/feat1.png">
 						</div>
 						<div class="feat__txt">
 							<p>
@@ -209,7 +209,7 @@
 				<div class="col-md-3">
 					<div class="feat__it">
 						<div class="feat__img">
-							<img src="img/feat2.png">
+							<img src="<?bloginfo('template_directory');?>/dist/img/feat2.png">
 						</div>
 						<div class="feat__txt">
 							<p>
@@ -224,7 +224,7 @@
 				<div class="col-md-3">
 					<div class="feat__it">
 						<div class="feat__img">
-							<img src="img/feat3.png">
+							<img src="<?bloginfo('template_directory');?>/dist/img/feat3.png">
 						</div>
 						<div class="feat__txt">
 							<p>
@@ -239,7 +239,7 @@
 				<div class="col-md-3">
 					<div class="feat__it">
 						<div class="feat__img">
-							<img src="img/feat4.png">
+							<img src="<?bloginfo('template_directory');?>/dist/img/feat4.png">
 						</div>
 						<div class="feat__txt">
 							<p>
@@ -291,7 +291,7 @@
 				<div class="col-md-6">
 					<div class="blck badv__blck">
 						<div class="bord">
-							<img src="/img/badv1.jpg">									
+							<img src="<?bloginfo('template_directory');?>/dist/img/badv1.jpg">									
 						</div>
 					
 					</div>
@@ -308,7 +308,7 @@
 				<div class="col-md-6">
 					<div class="blck badv__blck">
 						<div class="bord">
-							<img src="/img/badv2.jpg">									
+							<img src="<?bloginfo('template_directory');?>/dist/img/badv2.jpg">									
 						</div>
 					
 					</div>
